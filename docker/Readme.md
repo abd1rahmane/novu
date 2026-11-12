@@ -1,6 +1,6 @@
 Docker is the easiest way to get started with self-hosted Novu.
 For production-style self-hosting, see [Deploy with Docker](/community/self-hosting-novu/deploy-with-docker).
-For Kubernetes deployments, see [Helm](kubernetes/helm/Readme.md) or [Kustomize](kubernetes/helm/Readme.md).
+For Kubernetes deployments, see the [Helm chart](https://github.com/novuhq/community-k8s/tree/main/helm).
 
 The `docker/local/` compose file is for **local development dependencies only** — it does not start the Novu API, Worker, WebSocket, or Dashboard services.
 
